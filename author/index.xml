@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on MY Gallery</title>
-    <link>https://mehrdad-dev.ir/gallary/author/</link>
+    <link>https://nedamaleki.github.io/gallery/author/</link>
     <description>Recent content in Authors on MY Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mehrdad-dev.ir/gallary/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://nedamaleki.github.io/gallery/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mehrdad</title>
-      <link>https://mehrdad-dev.ir/gallary/author/mehrdad/</link>
+      <link>https://nedamaleki.github.io/gallery/author/mehrdad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mehrdad-dev.ir/gallary/author/mehrdad/</guid>
+      <guid>https://nedamaleki.github.io/gallery/author/mehrdad/</guid>
       <description>about author</description>
     </item>
     
