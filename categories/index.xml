@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on MY Gallery</title>
+    <link>https://mehrdad-dev.ir/gallary/categories/</link>
+    <description>Recent content in Categories on MY Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://mehrdad-dev.ir/gallary/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Green Tree</title>
+      <link>https://mehrdad-dev.ir/gallary/categories/green-tree/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://mehrdad-dev.ir/gallary/categories/green-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>https://mehrdad-dev.ir/gallary/categories/nature/</link>
+      <pubDate>Sun, 12 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://mehrdad-dev.ir/gallary/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inspire</title>
+      <link>https://mehrdad-dev.ir/gallary/categories/inspire/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://mehrdad-dev.ir/gallary/categories/inspire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree</title>
+      <link>https://mehrdad-dev.ir/gallary/categories/tree/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://mehrdad-dev.ir/gallary/categories/tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://mehrdad-dev.ir/gallary/categories/writing/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://mehrdad-dev.ir/gallary/categories/writing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
